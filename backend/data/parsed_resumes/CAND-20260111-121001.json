@@ -1,0 +1,286 @@
+{
+  "candidate_id": "CAND-20260111-121001",
+  "candidate_name": "Mohit Matte",
+  "parsed_at": "2026-01-11T12:10:01.107526",
+  "session_id": "0d2a6479-6747-4438-b927-7e63f7fcee73",
+  "candidate_info": {
+    "name": "Mohit Matte",
+    "email": "mattemohit2002@gmail.com",
+    "phone": "+91-8799979648",
+    "location": "Pune, India",
+    "target_job_title": "DevOps Engineer",
+    "links": {
+      "other": []
+    }
+  },
+  "parsed_data": {
+    "summary": "Highly motivated and detail-oriented DevOps Engineer with a solid foundation in AWS cloud services, CI/CD pipelines, Docker, and Infrastructure as Code (IaC) using Terraform. Adept at automating workﬂows, deploying scalable infrastructure, and ensuring application reliability. Proﬁcient in managing cloud environments, containerized deployments, and streamlining development operations. Passionate about delivering high-availability systems and driving operational excellence through intelligent automation.",
+    "total_experience_years": 0.0,
+    "education": [
+      {
+        "degree": "B.Tech",
+        "field": "Information Technology",
+        "institution": "Rajarshri Shahu College Of Engineering, Pune",
+        "year": 2025,
+        "gpa": "8.67",
+        "relevant_coursework": []
+      },
+      {
+        "degree": "Higher Secondary (12th Grade)",
+        "institution": "Hislop Junior College, Chandrapur",
+        "year": 2021,
+        "gpa": "93%",
+        "relevant_coursework": []
+      },
+      {
+        "degree": "Secondary School Certiﬁcate (10th Grade)",
+        "institution": "Indira Gandhi Garden School, Chandrapur",
+        "year": 2019,
+        "gpa": "91%",
+        "relevant_coursework": []
+      }
+    ],
+    "work_experience": [
+      {
+        "company": "Zapient Digital",
+        "title": "Software Developer",
+        "location": "Pune, India",
+        "start_date": "Sep 2024",
+        "end_date": "Present",
+        "duration": "4 months",
+        "responsibilities": [
+          "Designed and implemented RESTful APIs to automate candidate outreach within the Engagement Module.",
+          "Diagnosed and resolved a critical path-related bug in production.",
+          "Integrated voice-to-text transcription for telephonic interviews and enabled automated candidate ranking using LLMs (e.g., OpenAI ChatGPT).",
+          "Built a scalable workﬂow to manage large resume ﬁles (>25MB) by integrating with the Google Drive API.",
+          "Designed and provisioned a custom AWS VPC using Terraform, automating the creation of subnets, route tables, Internet Gateway, NAT Gateway, and EC2 instances.",
+          "Segmented network architecture to enhance security, resource isolation, and traﬃc control using Infrastructure as Code (IaC).",
+          "Developed a serverless cost optimization tool using AWS Lambda to automatically detect and delete unused EBS snapshots.",
+          "Scheduled cleanups using CloudWatch Events and integrated SNS to notify stakeholders with actionable cost-saving insights.",
+          "Built an end-to-end CI/CD pipeline using AWS services to automate source integration, Docker image build, security scan, and deployment.",
+          "Integrated CodeCommit, CodeBuild, ECR, and CodeDeploy to enable seamless and secure deployment to EC2 environments.",
+          "Automated testing, containerization, and delivery stages, improving release velocity and reliability by following DevOps best practices.",
+          "Deployed the pipeline via AWS Console UI, enabling production-ready delivery pipelines without manual intervention."
+        ],
+        "achievements": [
+          "Reduced manual follow-ups by 40% and increased response rate.",
+          "Enhanced system stability and reduced incident recurrence by 30%.",
+          "Improved recruiter eﬃciency by 25%.",
+          "Improved upload reliability by 50% and streamlining document retrieval.",
+          "Reduced storage costs by automatically detecting and deleting unused EBS snapshots."
+        ],
+        "technologies": [
+          "Python",
+          "Flask",
+          "PostgreSQL",
+          "AI",
+          "NLP",
+          "LLMs",
+          "OpenAI ChatGPT",
+          "Google Drive API",
+          "Terraform",
+          "AWS Lambda",
+          "AWS CloudWatch",
+          "AWS SNS",
+          "Boto3",
+          "AWS VPC",
+          "EC2",
+          "Docker",
+          "AWS CodeCommit",
+          "AWS CodePipeline",
+          "AWS CodeBuild",
+          "AWS CodeDeploy",
+          "AWS ECR"
+        ],
+        "projects": [
+          "AI-Powered Recruiting Platform",
+          "AWS Infrastructure Automation & Cost Optimization",
+          "AWS CI/CD Pipeline Automation"
+        ]
+      }
+    ],
+    "technical_skills": {
+      "programming_languages": [
+        "Python",
+        "Shell Scripting",
+        "C",
+        "C++"
+      ],
+      "frameworks": [
+        "Flask"
+      ],
+      "databases": [
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB"
+      ],
+      "cloud_platforms": [
+        "AWS (EC2, S3, VPC, IAM, RDS, Lambda, Route 53, CloudWatch, CloudFormation, CloudFront)"
+      ],
+      "devops_tools": [
+        "Docker",
+        "Kubernetes",
+        "Terraform",
+        "GitHub Actions",
+        "Jenkins",
+        "Ansible",
+        "Nginx",
+        "Maven",
+        "AWS CodePipeline",
+        "CI/CD pipelines",
+        "Shell scripting",
+        "AWS CodeCommit",
+        "Git",
+        "GitHub",
+        "Bitbucket",
+        "Jira"
+      ],
+      "tools": [],
+      "methodologies": [
+        "DevOps best practices"
+      ],
+      "soft_skills": []
+    },
+    "projects": [
+      {
+        "name": "AI-Powered Recruiting Platform",
+        "description": "An intelligent recruitment management platform that streamlines the end-to-end hiring process. It automates candidate screening, shortlisting, and communication using AI and NLP models.",
+        "technologies": [
+          "Python",
+          "Flask",
+          "PostgreSQL",
+          "AI",
+          "NLP",
+          "LLMs",
+          "OpenAI ChatGPT",
+          "Google Drive API"
+        ],
+        "role": "Designed and implemented RESTful APIs, diagnosed and resolved critical bugs, integrated voice-to-text transcription, enabled automated candidate ranking, built scalable workflow for resume files.",
+        "impact": "Reduced manual follow-ups by 40%, increased response rate, enhanced system stability, reduced incident recurrence by 30%, improved recruiter eﬃciency by 25%, improved upload reliability by 50%."
+      },
+      {
+        "name": "AWS Infrastructure Automation & Cost Optimization",
+        "description": "Automated AWS infrastructure setup and cost optimization using Terraform and Lambda functions to reduce storage costs.",
+        "technologies": [
+          "Terraform",
+          "AWS Lambda",
+          "AWS CloudWatch",
+          "AWS SNS",
+          "Boto3",
+          "AWS VPC",
+          "EC2"
+        ],
+        "role": "Designed and provisioned custom AWS VPC, segmented network architecture, developed serverless cost optimization tool, scheduled cleanups, integrated SNS for notifications.",
+        "impact": "Automated creation of subnets, route tables, Internet Gateway, NAT Gateway, and EC2 instances. Enhanced security, resource isolation, and traﬃc control. Reduced storage costs by automatically detecting and deleting unused EBS snapshots."
+      },
+      {
+        "name": "AWS CI/CD Pipeline Automation",
+        "description": "Built an automated CI/CD pipeline on AWS to improve development and deployment eﬃciency with a focus on Docker containers.",
+        "technologies": [
+          "AWS CodeCommit",
+          "AWS CodePipeline",
+          "AWS CodeBuild",
+          "AWS CodeDeploy",
+          "AWS ECR",
+          "EC2",
+          "Docker"
+        ],
+        "role": "Built end-to-end CI/CD pipeline, integrated CodeCommit, CodeBuild, ECR, and CodeDeploy, automated testing, containerization, and delivery stages, deployed pipeline via AWS Console UI.",
+        "impact": "Improved release velocity and reliability by following DevOps best practices. Enabled seamless and secure deployment to EC2 environments. Enabled production-ready delivery pipelines without manual intervention."
+      }
+    ],
+    "certifications": [],
+    "achievements": [
+      {
+        "title": "Solved 490+ Data Structures and Algorithmic problems on coding platform such as LeetCode and GFG"
+      },
+      {
+        "title": "Contest Rating: 1412 @ LeetCode",
+        "organization": "LeetCode"
+      }
+    ],
+    "publications": [],
+    "languages": [],
+    "volunteer_work": []
+  },
+  "external_profiles": {
+    "coding_platforms": []
+  },
+  "evaluation": {
+    "scores": {
+      "technical_skills": {
+        "breadth": 7,
+        "depth": 6,
+        "relevance": 8,
+        "total": 21,
+        "max": 25
+      },
+      "ats_score": {
+        "keywords": 7,
+        "formatting": 5,
+        "consistency": 4,
+        "completeness": 4,
+        "total": 20,
+        "max": 20
+      },
+      "experience_quality": {
+        "relevance": 8,
+        "impact": 7,
+        "progression": 3,
+        "total": 18,
+        "max": 20
+      },
+      "education_certifications": {
+        "education": 4,
+        "certifications": 0,
+        "continuous_learning": 2,
+        "total": 6,
+        "max": 10
+      },
+      "projects": {
+        "complexity": 6,
+        "real_world_application": 5,
+        "documentation": 2,
+        "total": 13,
+        "max": 15
+      },
+      "external_profiles": {
+        "github": 0,
+        "coding_platforms": 3,
+        "community": 0,
+        "total": 3,
+        "max": 10
+      }
+    },
+    "final_score": 81,
+    "grade": "A",
+    "red_flags": [
+      "No direct URLs provided for LinkedIn, GitHub, or LeetCode profiles, making external verification impossible.",
+      "Very limited professional experience (started September 2024)."
+    ],
+    "green_flags": [
+      "Strong foundational knowledge and practical application of core DevOps tools and AWS services.",
+      "Demonstrated ability to achieve quantifiable results in a short professional tenure.",
+      "Proactive engagement in competitive programming (490+ DS&A problems, LeetCode rating 1412).",
+      "Good academic record with a high CGPA in B.Tech."
+    ],
+    "strengths": [
+      "Excellent grasp of modern DevOps practices, including CI/CD, IaC (Terraform), containerization (Docker, Kubernetes), and cloud platforms (AWS).",
+      "Proven ability to deliver impactful solutions, evidenced by quantifiable achievements in API automation, bug resolution, and cost optimization.",
+      "Strong problem-solving and algorithmic skills, as shown by extensive competitive programming experience.",
+      "Highly motivated and detail-oriented, with a clear passion for automation and operational excellence."
+    ],
+    "weaknesses": [
+      "Very limited professional work experience, having started the first role recently.",
+      "Lack of verifiable online presence (GitHub, LinkedIn) due to missing URLs, which hinders a full assessment of personal projects and community engagement.",
+      "No professional certifications listed, which could further validate cloud or DevOps expertise."
+    ],
+    "recommendations": [
+      "Provide direct URLs to LinkedIn, GitHub, and LeetCode profiles to enable comprehensive external verification and showcase personal contributions.",
+      "Consider pursuing industry-recognized certifications, such as AWS Certified DevOps Engineer - Associate or Professional, to formalize cloud and DevOps expertise.",
+      "Continue to build and document personal projects on GitHub to demonstrate skills and practical application beyond current work experience.",
+      "As experience grows, focus on articulating career progression and increasing scope of responsibilities within roles."
+    ],
+    "detailed_feedback": "Mohit Matte presents as a highly promising junior DevOps Engineer with a strong technical foundation and a clear passion for the field. Despite having very limited professional experience (started September 2024), the resume highlights significant contributions and quantifiable achievements in areas critical to DevOps, including CI/CD pipeline automation, AWS infrastructure provisioning with Terraform, and serverless cost optimization. The candidate demonstrates excellent breadth and depth in modern technologies like AWS, Docker, Kubernetes, and Python, which are highly relevant to current industry demands. Furthermore, a strong academic record and proactive engagement in competitive programming (490+ DS&A problems, LeetCode rating 1412) underscore a robust problem-solving ability and a commitment to continuous learning. The resume is well-structured and keyword-optimized, scoring highly on ATS compatibility.\n\nThe primary area for improvement is the limited professional experience, which is understandable given the recent start date. The absence of direct URLs for LinkedIn, GitHub, and LeetCode profiles is a notable red flag, as it prevents external verification of personal projects and community involvement, which are crucial for technical roles. Additionally, while the technical skills are strong, formal certifications could further validate expertise. Overall, Mohit is a strong candidate for junior DevOps roles, demonstrating significant potential and a solid skill set, but would benefit from enhancing their online professional presence and considering certifications to complement their practical experience."
+  }
+}

@@ -1,0 +1,4 @@
+@import './tailwind.css';
+
+/* Additional global styles */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Source+Sans+Pro:wght@300;400;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap');

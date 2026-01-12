@@ -1,0 +1,49 @@
+{
+  "ranking_id": "RANK-JD-2025-001-1768130991",
+  "ranked_at": "2026-01-11T16:59:51.186604",
+  "jd_id": "JD-2025-001",
+  "jd_title": "Full stack Developer",
+  "jd_location": "UPM, Campus de Montegancedo / CAIT",
+  "total_candidates_evaluated": 1,
+  "ranked_candidates": [
+    {
+      "candidate_id": "CAND-20260111-120843",
+      "candidate_name": "Pratik Chemate",
+      "candidate_email": "pratikchemate@gmail.com",
+      "resume_evaluation_score": 85,
+      "match_score": {
+        "mandatory_skills_score": 0.0,
+        "good_to_have_skills_score": 0.0,
+        "experience_score": 25,
+        "location_score": 10,
+        "salary_score": 3,
+        "total_score": 38.0
+      },
+      "skill_match": {
+        "mandatory_matched": [],
+        "mandatory_missing": [],
+        "mandatory_coverage_percent": 0,
+        "good_to_have_matched": [],
+        "good_to_have_missing": [],
+        "good_to_have_coverage_percent": 0
+      },
+      "experience_match": {
+        "candidate_years": 0.33,
+        "required_min": 0,
+        "required_max": 100,
+        "alignment": "Perfect Match",
+        "score": 25,
+        "alignment_notes": "0.33 years vs 0-100 required"
+      },
+      "recommendation": "Not Recommended",
+      "justification": "Score: 38.0/100. Skills: 0% mandatory, 0% optional. Experience: Perfect Match.",
+      "rank": 1
+    }
+  ],
+  "top_candidates": [],
+  "acceptable_candidates": [],
+  "not_recommended": [
+    "CAND-20260111-120843"
+  ],
+  "summary": "1 candidates evaluated. 0 highly recommended, 0 acceptable, 1 not recommended."
+}

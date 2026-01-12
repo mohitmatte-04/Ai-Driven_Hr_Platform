@@ -1,0 +1,301 @@
+{
+  "candidate_id": "CAND-20260111-120843",
+  "candidate_name": "Pratik Chemate",
+  "parsed_at": "2026-01-11T12:08:43.083121",
+  "session_id": "9c6bddd2-6406-46a5-b7ea-766f37faada3",
+  "candidate_info": {
+    "name": "Pratik Chemate",
+    "email": "pratikchemate@gmail.com",
+    "phone": "+91 8459514645",
+    "location": "Pune, MH, IN",
+    "target_job_title": "Full Stack Developer",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/pratikchemate",
+      "github": "https://github.com/pratikchemate",
+      "other": []
+    }
+  },
+  "parsed_data": {
+    "summary": "Full Stack Developer skilled in Java, Spring Boot, React, and MERN stack, with hands -on experience building secure REST APIs, scalable frontends, and data -driven applications. Proficient in Python, SQL, and API integration, with a proven track record of de livering projects that improved performance by up to 40%. Certified by IBM and EY, with strong abilities in problem -solving, analytical thinking, and adaptability. Recognized for collaboration, teamwork, and effective communication, with experience in orga nizing coding competitions and contributing to high -performing, innovative teams. Passionate about continuous learning, leadership, and driving impactful results in the technology sector.",
+    "total_experience_years": 0.33,
+    "education": [
+      {
+        "degree": "Bachelor of Technology",
+        "field": "Computer Engineering",
+        "institution": "All India Shri Shivaji Memorial Society’s Institute of Information Technology, Pune (Pune University, SPPU)",
+        "year": 2026,
+        "gpa": "8.27/10",
+        "relevant_coursework": [
+          "Advanced Data Structures",
+          "Principles of Programming Languages",
+          "Operating Systems",
+          "Python",
+          "Java",
+          "AI/ML",
+          "Databases",
+          "Deep learning"
+        ]
+      },
+      {
+        "degree": "Diploma of Engineering",
+        "field": "Computer Engineering",
+        "institution": "Pimpri Chinchwad Polytechnic, Pune (Maharashtra University)",
+        "year": 2023,
+        "gpa": "91%",
+        "relevant_coursework": [
+          "Mobile application development",
+          "Java essentials",
+          "Python",
+          "Data Structures",
+          "HTML",
+          "CSS",
+          "PHP"
+        ]
+      }
+    ],
+    "work_experience": [
+      {
+        "company": "EY-GDS Internship",
+        "title": "Full Stack Web Development",
+        "start_date": "Dec 2024",
+        "end_date": "Jan 2025",
+        "duration": "2 months",
+        "responsibilities": [
+          "Successfully completed a 6-week internship with EY GDS in collaboration with Edunet Foundation and AICTE.",
+          "Successfully developed a Paytm Wallet Clone, implementing user authentication and transaction management, used MERN stack, and improved response times by 30%.",
+          "Presented the project prototype to industry experts and earned certifications for completing the program."
+        ],
+        "achievements": [
+          "Improved response times by 30% for Paytm Wallet Clone.",
+          "Earned certifications for completing the program."
+        ],
+        "technologies": [
+          "MERN stack"
+        ],
+        "projects": []
+      },
+      {
+        "company": "MITU Skillologies",
+        "title": "Summer Intern",
+        "start_date": "Jul 2022",
+        "end_date": "Aug 2022",
+        "duration": "2 months",
+        "responsibilities": [
+          "An internship experience in Python programming for Data Science and Data Analytics, where I successfully completed projects utilizing Numpy, Seaborn, and Matplotlib.",
+          "Contributed to innovative data-driven solutions during a Python internship, completing 3 projects focused on analytics using Numpy, Seaborn, and Matplotlib."
+        ],
+        "achievements": [],
+        "technologies": [
+          "Python",
+          "Numpy",
+          "Seaborn",
+          "Matplotlib"
+        ],
+        "projects": []
+      }
+    ],
+    "technical_skills": {
+      "programming_languages": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL"
+      ],
+      "frameworks": [
+        "React",
+        "Node.js",
+        "Express",
+        "Spring Boot",
+        "Pandas",
+        "NumPy",
+        "Seaborn",
+        "Matplotlib"
+      ],
+      "databases": [
+        "MongoDB",
+        "MySQL"
+      ],
+      "cloud_platforms": [],
+      "devops_tools": [],
+      "tools": [
+        "Git/GitHub",
+        "Postman"
+      ],
+      "methodologies": [
+        "Data Structures & Algorithms",
+        "OOP",
+        "Operating Systems",
+        "AI/ML basics",
+        "REST APIs"
+      ],
+      "soft_skills": []
+    },
+    "projects": [
+      {
+        "name": "Brogram",
+        "description": "React-based developer portfolio using a modular component architecture, semantic HTML, and custom CSS theme (fanta.css) for a clean, responsive UI, built with a Vite-style entry (main.jsx/App.jsx) and deployed on Vercel for fast, reliable delivery.",
+        "technologies": [
+          "Reactjs",
+          "CSS",
+          "Vercel"
+        ],
+        "live_demo": "live"
+      },
+      {
+        "name": "GitHub profile searcher using Git API",
+        "description": "Developed a GitHub Profile Searcher using Git API, streamlining the retrieval of user profiles and repositories with a user-friendly interface.",
+        "technologies": [
+          "Python",
+          "GitHub API"
+        ],
+        "impact": "Achieved a 40% improvement in data retrieval efficiency, enhancing user experience and showcasing proficiency in API integration and UI/UX design."
+      },
+      {
+        "name": "AI Email Reply Generator",
+        "description": "Implemented REST API (WebClient) and React UI (MUI) to generate context-aware email drafts with tone selection. Added structured prompting, JSON parsing, loading/error states, and clipboard copy.",
+        "technologies": [
+          "Spring Boot",
+          "React",
+          "Gemini API"
+        ],
+        "github_link": "Git repo",
+        "impact": "Shipped a working demo."
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Full Stack Software Developer Professional Certificate",
+        "issuer": "IBM (on Coursera)"
+      },
+      {
+        "name": "Python Programming",
+        "issuer": "MKCL"
+      },
+      {
+        "name": "Android App Development",
+        "issuer": "MKCL"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Pune District Badminton competition winner",
+        "date": "AY 2022"
+      },
+      {
+        "title": "Merit scholarship in 10th",
+        "organization": "Pimpri Chinchwad Municipal Corporation (Pune)",
+        "description": "For scoring good marks."
+      },
+      {
+        "title": "Member of coding club in college",
+        "description": "Organized inter-college coding competitions, increasing participation by 40%."
+      }
+    ],
+    "publications": [
+      "IEEE Paper submitted: AI -Powered Resume Parsing using Django"
+    ],
+    "languages": [],
+    "volunteer_work": []
+  },
+  "external_profiles": {
+    "github": {
+      "username": "pratikchemate",
+      "repositories": 35,
+      "stars": 10,
+      "commits_last_year": 150,
+      "top_languages": [
+        "Java",
+        "Python",
+        "JavaScript"
+      ],
+      "notable_projects": [
+        "AI-Email-Reply-Generator",
+        "Paytm-Wallet-Clone"
+      ],
+      "contribution_streak": 45,
+      "profile_accessible": true
+    },
+    "coding_platforms": []
+  },
+  "evaluation": {
+    "scores": {
+      "technical_skills": {
+        "breadth": 7,
+        "depth": 6,
+        "relevance": 8,
+        "total": 21,
+        "max": 25
+      },
+      "ats_score": {
+        "keywords": 7,
+        "formatting": 5,
+        "consistency": 4,
+        "completeness": 4,
+        "total": 20,
+        "max": 20
+      },
+      "experience_quality": {
+        "relevance": 8,
+        "impact": 6,
+        "progression": 2,
+        "total": 16,
+        "max": 20
+      },
+      "education_certifications": {
+        "education": 5,
+        "certifications": 3,
+        "continuous_learning": 2,
+        "total": 10,
+        "max": 10
+      },
+      "projects": {
+        "complexity": 5,
+        "real_world_application": 5,
+        "documentation": 3,
+        "total": 13,
+        "max": 15
+      },
+      "external_profiles": {
+        "github": 3,
+        "coding_platforms": 0,
+        "community": 2,
+        "total": 5,
+        "max": 10
+      }
+    },
+    "final_score": 85,
+    "grade": "A",
+    "red_flags": [
+      "Inconsistent dates for EY-GDS internship (Dec 2024 - Jan 2025) while still a student graduating in 2026, implying it's a future or very recent internship, but stated as 'successfully completed'."
+    ],
+    "green_flags": [
+      "Quantifiable achievements in projects and internships",
+      "Strong technical skill set for a student",
+      "Active community involvement (coding club, organizing competitions)",
+      "Relevant certifications (IBM, MKCL)",
+      "IEEE paper submission",
+      "Strong academic background with good GPA"
+    ],
+    "strengths": [
+      "Possesses a strong foundational technical skill set in Full Stack development (Java, Spring Boot, React, MERN) and data science (Python, NumPy, Pandas, Matplotlib) for a candidate at this stage of their career.",
+      "Demonstrates practical application of skills through well-defined projects, including a Paytm Wallet Clone and an AI Email Reply Generator, showcasing API integration and UI/UX design.",
+      "Shows initiative and continuous learning through relevant certifications (IBM Full Stack, MKCL Python/Android) and an IEEE paper submission.",
+      "Active in extracurriculars, including organizing coding competitions, indicating leadership potential and teamwork abilities.",
+      "Resume is well-structured and keyword-optimized, making it highly ATS-friendly."
+    ],
+    "weaknesses": [
+      "Very limited professional work experience (total of 4 months across two internships), which is expected for a student but limits the depth of real-world problem-solving exposure.",
+      "The dates for the EY-GDS internship (Dec 2024 - Jan 2025) are inconsistent with the B.Tech graduation year (June 2026) and the claim of 'successfully completed', suggesting a potential future internship or a resume update oversight.",
+      "Lack of presence on competitive coding platforms like LeetCode or HackerRank, which could further demonstrate problem-solving skills.",
+      "GitHub profile shows good activity but relatively low star count, suggesting projects might not have gained significant external traction."
+    ],
+    "recommendations": [
+      "Seek out more internship or co-op opportunities to gain extensive professional experience and apply learned skills in a corporate environment.",
+      "Clarify the dates and status of the EY-GDS internship to avoid any ambiguity.",
+      "Actively participate in competitive programming on platforms like LeetCode or HackerRank to hone algorithmic skills and demonstrate problem-solving prowess.",
+      "Continue to build and contribute to open-source projects on GitHub, focusing on projects that solve real-world problems or demonstrate advanced concepts to attract more attention and stars.",
+      "Consider creating a dedicated portfolio website (beyond just a link text) to showcase projects and skills more comprehensively."
+    ],
+    "detailed_feedback": "Pratik Chemate presents as a highly motivated and technically adept student with a strong foundation in Full Stack development and data science. The resume is exceptionally well-structured and keyword-rich, ensuring high ATS compatibility. Pratik demonstrates a good breadth of modern technical skills, including Java, Spring Boot, React, MERN stack, and Python, which are applied effectively in various projects. Quantifiable achievements, such as improving response times by 30% and data retrieval efficiency by 40%, highlight an impact-driven approach. The academic background is solid, complemented by relevant certifications and an IEEE paper submission, indicating a commitment to continuous learning and academic rigor. Active involvement in college coding clubs further showcases leadership and community engagement.\n\nHowever, the primary area for development is the limited professional experience, totaling only four months of internships. A notable red flag is the inconsistency in the EY-GDS internship dates (Dec 2024 - Jan 2025) being listed as 'successfully completed' while the candidate is still pursuing a B.Tech degree until June 2026. This needs clarification. While GitHub activity is good, the overall star count is low, and there's no visible presence on competitive coding platforms. To enhance marketability, Pratik should prioritize securing more substantial internships, actively engaging in competitive programming, and refining the online portfolio to clearly present project details and impact."
+  }
+}

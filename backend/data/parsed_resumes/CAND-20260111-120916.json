@@ -1,0 +1,308 @@
+{
+  "candidate_id": "CAND-20260111-120916",
+  "candidate_name": "KHANGESH MATTE",
+  "parsed_at": "2026-01-11T12:09:16.804766",
+  "session_id": "7e531415-05d5-45ab-afa2-a772a291d3d9",
+  "candidate_info": {
+    "name": "KHANGESH MATTE",
+    "email": "",
+    "phone": "+33767832533",
+    "location": "Stuttgart, Germany",
+    "target_job_title": "DevOps Engineer",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/khangesh-matte-8150a1108/",
+      "other": []
+    }
+  },
+  "parsed_data": {
+    "summary": "Experienced Software Developer and DevOps Engineer with 3 years of expertise in automation, CI/CD pipeline management, cloud infrastructure, and containerization technologies. Proven ability to enhance efficiency, reliability, and scalability in software development and deployment processes. Skilled in collaborating with cross-functional teams to streamline workflows and implement best practices. Committed to continuous improvement and delivering high-quality software solutions in dynamic environments.",
+    "total_experience_years": 3.75,
+    "education": [
+      {
+        "degree": "MASTERS OF ENGINEERING IN ELECTRONICS EMBEDDED SYSTEM",
+        "field": "ELECTRONICS EMBEDDED SYSTEM",
+        "institution": "ESIGELEC",
+        "year": 2021,
+        "relevant_coursework": []
+      },
+      {
+        "degree": "BACHELOR OF ENGINEERING IN ELECTRONICS",
+        "field": "ELECTRONICS",
+        "institution": "KDK college of Engineering",
+        "year": 2016,
+        "relevant_coursework": []
+      }
+    ],
+    "work_experience": [
+      {
+        "company": "T and S Services GmbH",
+        "title": "DEVOPS ENGINEER",
+        "location": "Stuttgart, Germany",
+        "start_date": "Jun 2022",
+        "end_date": "Present",
+        "duration": "2 years",
+        "responsibilities": [
+          "Managed AWS & Azure infrastructure (EC2, S3, RDS, VPC, IAM), provisioning and scaling using Terraform and Ansible; handled cloud service setup, access control (IAM/RBAC), and network configurations (VPC, DNS, firewalls, load balancers).",
+          "Designed, implemented, and maintained CI/CD pipelines (Jenkins, GitHub Actions, GitLab), automating build/release with Python, Bash, and Batch scripts.",
+          "Deployed, managed, and scaled containerized applications using Docker and Kubernetes, ensuring high availability and fault tolerance in production.",
+          "Integrated SonarQube, Prometheus, Grafana, and ELK Stack (Elasticsearch, Logstash, Kibana) into pipelines for code quality, security compliance, and real-time observability.",
+          "Led migrations between Azure DevOps, GitHub, Bitbucket, and SVN, ensuring smooth transitions with no workflow disruptions.",
+          "Proactive team player with strong agile/scrum experience, excellent problem-solving skills, and a customer-centric mindset."
+        ],
+        "achievements": [
+          "reducing errors by 40% and accelerating deployments by 30%."
+        ],
+        "technologies": [
+          "Jenkins",
+          "GitHub Actions",
+          "GitLab",
+          "Bitbucket",
+          "Docker",
+          "Kubernetes",
+          "Terraform",
+          "Ansible",
+          "AWS (EC2, S3, IAM, VPC)",
+          "Azure",
+          "ELK Stack",
+          "Prometheus",
+          "Grafana",
+          "SonarQube",
+          "Black Duck",
+          "Python",
+          "Bash",
+          "Batch",
+          "Networking (VPC, DNS, IAM)",
+          "Access Management",
+          "Agile/Scrum",
+          "CI/CD",
+          "Cloud Scalability",
+          "IaC"
+        ],
+        "projects": []
+      },
+      {
+        "company": "Continental AG",
+        "title": "EMBEDDED SOFTWARE DEVELOPER",
+        "location": "Hamburg, Germany",
+        "start_date": "Mar 2021",
+        "end_date": "Sep 2021",
+        "duration": "7 months",
+        "responsibilities": [
+          "Researched and prototyped innovative products to align with company goals and client requirements.",
+          "Utilized software development tools throughout all phases of the product lifecycle.",
+          "Explored and evaluated emerging technologies like AWS IoT Greengrass, Raspberry Pi, and Docker for integration into IoT solutions.",
+          "Led a team in planning and executing product development initiatives with collaborative input from stakeholders.",
+          "Developed embedded software for real-time systems using C/C++ and Python.",
+          "Collaborated with cross-functional teams to design and implement firmware for microcontrollers, contributing to successful product launches.",
+          "Conducted unit testing and debugging of embedded applications."
+        ],
+        "achievements": [
+          "improving system performance by 30%.",
+          "reducing software defects by 25%."
+        ],
+        "technologies": [
+          "Raspberry Pi",
+          "Arduino",
+          "Docker",
+          "DS18B20",
+          "I2C",
+          "One-Wire Protocol",
+          "Embedded C",
+          "Python"
+        ],
+        "projects": []
+      },
+      {
+        "company": "Minilec India PVT ltd.",
+        "title": "EMBEDDED SYSTEMS ENGINEER",
+        "location": "Pune, India",
+        "start_date": "Dec 2017",
+        "end_date": "Jan 2019",
+        "duration": "1 year 2 months",
+        "responsibilities": [
+          "Conducted unit testing and PCB design with Embunit and Eagle, ensuring product specification alignment.",
+          "Performed product validation and hardware verification to maintain quality standards.",
+          "Led embedded testing, designed test strategies, and created test reports.",
+          "Provided technical support for unit testing activities."
+        ],
+        "achievements": [],
+        "technologies": [
+          "PIC16/PIC18 Micro-controllers",
+          "Eagle",
+          "Unit Testing",
+          "Circuit Design"
+        ],
+        "projects": []
+      }
+    ],
+    "technical_skills": {
+      "programming_languages": [
+        "C++",
+        "Python",
+        "Go",
+        "Batch",
+        "Shell Scripting",
+        "Bash",
+        "Embedded C"
+      ],
+      "frameworks": [
+        "ELK Stack",
+        "SonarQube",
+        "Black Duck",
+        "Ansible"
+      ],
+      "databases": [
+        "MySQL",
+        "MongoDB"
+      ],
+      "cloud_platforms": [
+        "AWS (EC2, S3, IAM, VPC, IoT Greengrass)",
+        "Azure"
+      ],
+      "devops_tools": [
+        "SVN",
+        "GIT",
+        "Bitbucket",
+        "Jenkins",
+        "Azure DevOps",
+        "Github Actions",
+        "Prometheus",
+        "Grafana",
+        "Datadog",
+        "Docker",
+        "Kubernetes (K8s)",
+        "Terraform",
+        "Jfrog",
+        "Nexus",
+        "GitLab"
+      ],
+      "tools": [
+        "Polarion",
+        "Confluence",
+        "Embunit",
+        "Eagle",
+        "Linux",
+        "HyperV"
+      ],
+      "methodologies": [
+        "Agile/Scrum",
+        "SAFe"
+      ],
+      "soft_skills": [
+        "Proactive team player",
+        "excellent problem-solving skills",
+        "customer-centric mindset"
+      ]
+    },
+    "projects": [],
+    "certifications": [
+      {
+        "name": "AWS Foundational certification",
+        "issuer": "In progress"
+      },
+      {
+        "name": "Learn Devops: Docker, Kubernetes, Terraform, AWS",
+        "issuer": ""
+      },
+      {
+        "name": "Unit testing and Test Driven Development in python",
+        "issuer": ""
+      },
+      {
+        "name": "The Complete Python Course On \"UDEMY\"",
+        "issuer": "UDEMY"
+      },
+      {
+        "name": "HackerRank certification (Python)",
+        "issuer": "HackerRank"
+      }
+    ],
+    "achievements": [],
+    "publications": [],
+    "languages": [
+      "English | Native. C1",
+      "German | Intermediate. B1"
+    ],
+    "volunteer_work": []
+  },
+  "external_profiles": {
+    "coding_platforms": []
+  },
+  "evaluation": {
+    "scores": {
+      "technical_skills": {
+        "breadth": 7,
+        "depth": 7,
+        "relevance": 8,
+        "total": 22,
+        "max": 25
+      },
+      "ats_score": {
+        "keywords": 7,
+        "formatting": 5,
+        "consistency": 4,
+        "completeness": 4,
+        "total": 20,
+        "max": 20
+      },
+      "experience_quality": {
+        "relevance": 7,
+        "impact": 6,
+        "progression": 5,
+        "total": 18,
+        "max": 20
+      },
+      "education_certifications": {
+        "education": 4,
+        "certifications": 2,
+        "continuous_learning": 2,
+        "total": 8,
+        "max": 10
+      },
+      "projects": {
+        "complexity": 5,
+        "real_world_application": 5,
+        "documentation": 3,
+        "total": 13,
+        "max": 15
+      },
+      "external_profiles": {
+        "github": 0,
+        "coding_platforms": 0,
+        "community": 0,
+        "total": 0,
+        "max": 10
+      }
+    },
+    "final_score": 81,
+    "grade": "A",
+    "red_flags": [
+      "Unexplained employment gaps (Jan 2019 - Sep 2019, Sep 2021 - Jun 2022).",
+      "Lack of verifiable external technical profiles (GitHub, LeetCode, Stack Overflow) which are often expected for a DevOps Engineer."
+    ],
+    "green_flags": [
+      "Strong, modern, and relevant technical skill set for DevOps.",
+      "Quantifiable achievements in professional experience.",
+      "Clear career progression from embedded systems to DevOps.",
+      "Evidence of continuous learning and upskilling."
+    ],
+    "strengths": [
+      "Extensive and modern DevOps skill set including cloud platforms (AWS, Azure), containerization (Docker, Kubernetes), CI/CD tools (Jenkins, GitHub Actions, GitLab), and IaC (Terraform, Ansible).",
+      "Demonstrated ability to deliver quantifiable results, such as reducing errors by 40% and accelerating deployments by 30%.",
+      "Clear career progression from embedded systems to a dedicated DevOps role, showcasing adaptability and continuous learning.",
+      "Experience with a wide array of tools and technologies relevant to modern software development and operations."
+    ],
+    "weaknesses": [
+      "Absence of verifiable external technical profiles (e.g., GitHub, LeetCode, Stack Overflow) which could further demonstrate practical skills and community engagement.",
+      "Unexplained gaps in employment history could raise questions during screening.",
+      "While certifications are mentioned, most are either in progress or self-study, lacking major industry-recognized completed certifications."
+    ],
+    "recommendations": [
+      "Create and actively maintain a GitHub profile to showcase personal projects, code quality, and contributions.",
+      "Consider completing and obtaining official certifications for key DevOps technologies (e.g., AWS Certified DevOps Engineer, Certified Kubernetes Administrator).",
+      "Address the employment gaps in a cover letter or be prepared to explain them during interviews.",
+      "If possible, include links to any personal projects or contributions that demonstrate practical application of skills."
+    ],
+    "detailed_feedback": "Khangesh Matte presents as a strong candidate for a DevOps Engineer role, demonstrating a highly relevant and modern technical skill set. The resume effectively highlights expertise in cloud infrastructure (AWS, Azure), CI/CD pipeline management, containerization (Docker, Kubernetes), and infrastructure as code (Terraform, Ansible). Quantifiable achievements, such as reducing errors by 40% and accelerating deployments by 30%, provide concrete evidence of impact in previous roles. The career progression from Embedded Systems Engineer to DevOps Engineer is a significant strength, indicating adaptability and a proactive approach to skill development.\n\nAreas for improvement primarily revolve around external validation and addressing employment gaps. The absence of verifiable GitHub, LeetCode, or Stack Overflow profiles is a notable weakness for a technical role, as these platforms often serve as a portfolio for engineers. Additionally, there are two unexplained employment gaps that should be clarified. Completing the 'in progress' AWS certification and pursuing other industry-recognized certifications would further strengthen the candidate's profile. Overall, Khangesh is a promising candidate with a solid foundation and relevant experience, but could enhance their visibility and credibility through a stronger online technical presence."
+  }
+}

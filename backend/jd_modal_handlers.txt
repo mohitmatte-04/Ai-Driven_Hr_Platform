@@ -1,0 +1,47 @@
+// Handler functions for detail modal and editing
+const handleViewDetails = (job: ParsedJob) => {
+    setSelectedJob(job);
+    setEditedJob(JSON.parse(JSON.stringify(job))); // Deep clone
+    setIsEditing(false);
+};
+
+const handleSaveEdits = async () => {
+    if (!editedJob) return;
+    
+    try {
+        const response = await fetch(`${BACKEND_URL}/api/jd/${editedJob.jd_id}`, {
+            method: 'PUT',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(editedJob)
+        });
+        
+        if (response.ok) {
+            await fetchParsedJobs();
+            setSelectedJob(editedJob);
+            setIsEditing(false);
+        }
+    } catch (err) {
+        console.error('Failed to save edits:', err);
+    }
+};
+
+const handleAddSkill = (type: 'mandatory' | 'good_to_have') => {
+    if (!editedJob) return;
+    const newSkill = prompt(`Enter new ${type === 'mandatory' ? 'mandatory' : 'good-to-have'} skill:`);
+    if (newSkill) {
+        const key = type === 'mandatory' ? 'mandatory_skills' : 'good_to_have_skills';
+        setEditedJob({
+            ...editedJob,
+            [key]: [...editedJob[key], newSkill]
+        });
+    }
+};
+
+const handleRemoveSkill = (type: 'mandatory' | 'good_to_have', index: number) => {
+    if (!editedJob) return;
+    const key = type === 'mandatory' ? 'mandatory_skills' : 'good_to_have_skills';
+    setEditedJob({
+        ...editedJob,
+        [key]: editedJob[key].filter((_, i) => i !== index)
+    });
+};

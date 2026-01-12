@@ -1,0 +1,48 @@
+{
+  "communication_id": "COMM-JD-2025-002-202601091310",
+  "job_id": "JD-2025-002",
+  "job_title": "Senior Backend Engineer",
+  "emails_sent": [
+    {
+      "candidate_id": "CAND-001",
+      "email": "sarah.johnson@example.com",
+      "candidate_name": "Sarah Johnson",
+      "type": "shortlist",
+      "status": "failed",
+      "sent_at": "2026-01-09T13:10:39.981601",
+      "error_message": "(535, b'5.7.8 Username and Password not accepted. For more information, go to\\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-34f6b95a0b4sm2415627a91.10 - gsmtp')"
+    },
+    {
+      "candidate_id": "CAND-002",
+      "email": "m.chen@techmail.com",
+      "candidate_name": "Michael Chen",
+      "type": "shortlist",
+      "status": "failed",
+      "sent_at": "2026-01-09T13:10:41.844280",
+      "error_message": "(535, b'5.7.8 Username and Password not accepted. For more information, go to\\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a3e3c48c15sm96156955ad.27 - gsmtp')"
+    },
+    {
+      "candidate_id": "CAND-003",
+      "email": "priya.dev@gmail.com",
+      "candidate_name": "Priya Sharma",
+      "type": "shortlist",
+      "status": "failed",
+      "sent_at": "2026-01-09T13:10:50.068032",
+      "error_message": "(535, b'5.7.8 Username and Password not accepted. For more information, go to\\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-34f5fa78f4asm9823274a91.3 - gsmtp')"
+    },
+    {
+      "candidate_id": "CAND-004",
+      "email": "alex.r@devmail.io",
+      "candidate_name": "Alex Rodriguez",
+      "type": "shortlist",
+      "status": "failed",
+      "sent_at": "2026-01-09T13:10:51.998947",
+      "error_message": "(535, b'5.7.8 Username and Password not accepted. For more information, go to\\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a3e3cc88f1sm96092405ad.78 - gsmtp')"
+    }
+  ],
+  "total_shortlisted": 4,
+  "total_sent": 0,
+  "total_failed": 4,
+  "summary": "Attempted to send 4 shortlist emails. All 4 failed due to email server authentication issues.",
+  "logged_at": "2026-01-09T13:11:19.573579"
+}

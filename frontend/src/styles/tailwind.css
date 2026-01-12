@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    :root {
+        /* Primary Colors */
+        --color-primary: 243 89 89;
+        /* coral red #f35959 */
+        --color-primary-foreground: 255 255 255;
+        /* white */
+
+        /* Secondary Colors */
+        --color-secondary: 255 123 123;
+        /* soft coral #ff7b7b */
+        --color-secondary-foreground: 26 26 26;
+        /* dark charcoal */
+
+        /* Accent Colors */
+        --color-accent: 230 57 70;
+        /* deep coral #e63946 */
+        --color-accent-foreground: 255 255 255;
+        /* white */
+
+        /* Background Colors */
+        --color-background: 224 224 224;
+        /* light gray #E0E0E0 */
+        --color-foreground: 26 26 26;
+        /* dark charcoal */
+
+        /* Surface Colors */
+        --color-card: 248 249 250;
+        /* light gray #f8f9fa */
+        --color-card-foreground: 26 26 26;
+        /* dark charcoal */
+
+        --color-popover: 255 255 255;
+        /* white */
+        --color-popover-foreground: 26 26 26;
+        /* dark charcoal */
+
+        /* Muted Colors */
+        --color-muted: 248 249 250;
+        /* light gray #f8f9fa */
+        --color-muted-foreground: 108 117 125;
+        /* medium gray #6c757d */
+
+        /* Destructive Colors */
+        --color-destructive: 220 53 69;
+        /* error red #dc3545 */
+        --color-destructive-foreground: 255 255 255;
+        /* white */
+
+        /* Success Colors */
+        --color-success: 40 167 69;
+        /* success green #28a745 */
+        --color-success-foreground: 255 255 255;
+        /* white */
+
+        /* Warning Colors */
+        --color-warning: 255 193 7;
+        /* warning yellow #ffc107 */
+        --color-warning-foreground: 26 26 26;
+        /* dark charcoal */
+
+        /* Error Colors */
+        --color-error: 220 53 69;
+        /* error red #dc3545 */
+        --color-error-foreground: 255 255 255;
+        /* white */
+
+        /* Border Colors */
+        --color-border: 229 231 235;
+        /* light border gray #e5e7eb */
+        --color-input: 229 231 235;
+        /* light border gray */
+
+        /* Ring Colors */
+        --color-ring: 243 89 89;
+        /* coral red #f35959 */
+
+        /* Additional Semantic Colors */
+        --color-info: 59 130 246;
+        /* professional blue #3b82f6 */
+        --color-info-foreground: 255 255 255;
+        /* white */
+
+        /* Text Hierarchy */
+        --color-text-primary: 17 24 39;
+        /* deep charcoal #111827 */
+        --color-text-secondary: 107 114 128;
+        /* medium gray #6b7280 */
+
+        /* Action Colors */
+        --color-action: 220 38 38;
+        /* action red #dc2626 */
+        --color-action-foreground: 255 255 255;
+        /* white */
+
+        /* Radius */
+        --radius: 0.5rem;
+    }
+}
+
+@layer base {
+    * {
+        @apply border-border;
+    }
+
+    body {
+        @apply bg-background text-foreground;
+        font-family: 'Source Sans Pro', sans-serif;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-family: 'Inter', sans-serif;
+    }
+}

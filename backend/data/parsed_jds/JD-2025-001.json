@@ -1,0 +1,41 @@
+{
+  "job_id": "JD-2025-001",
+  "role_title": "Full stack Developer",
+  "experience_min": 2,
+  "experience_max": 6,
+  "location": "UPM, Campus de Montegancedo / CAIT",
+  "relocation_allowed": false,
+  "mandatory_skills": [
+    "Ui",
+    "Cross-Browser Compatibility",
+    "Web Standards",
+    "Html",
+    "Css",
+    "Javascript",
+    "Jquery",
+    "Apis",
+    "Rest",
+    "Web Services",
+    "Node.js",
+    "Angular",
+    "Native Web Apps",
+    "Hybrid Web Apps",
+    "Progressive Web Apps",
+    "Git"
+  ],
+  "good_to_have_skills": [
+    "Java",
+    "MongoDB",
+    "MySQL",
+    "PostgreSQL",
+    "Docker",
+    "Kubernetes",
+    "Aws",
+    "English",
+    "French"
+  ],
+  "profile_type": "Technical",
+  "created_at": "2026-01-11T08:17:27.099020",
+  "created_by": "system",
+  "status": "active"
+}
