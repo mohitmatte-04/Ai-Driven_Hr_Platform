@@ -8,7 +8,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from datetime import datetime
 
-from .routers import jd_router, resume_router, ranking_router, communication_router
+from .routers import jd_router, resume_router, ranking_router, communication_router, chat_router
 from .models import HealthResponse
 
 # Create FastAPI app
@@ -58,6 +58,13 @@ app.include_router(
     prefix="/api/communication",
     tags=["Communications"]
 )
+
+app.include_router(
+    chat_router,
+    prefix="/api/chat",
+    tags=["Recruitment Chat"]
+)
+
 
 
 # Root endpoint
