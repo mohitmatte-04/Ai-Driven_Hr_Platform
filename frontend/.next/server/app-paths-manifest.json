@@ -1,7 +1,6 @@
 {
+  "/resume-parsing/page": "app/resume-parsing/page.js",
   "/page": "app/page.js",
-  "/homepage/page": "app/homepage/page.js",
   "/smart-ranking/page": "app/smart-ranking/page.js",
-  "/jd-parsing/page": "app/jd-parsing/page.js",
-  "/resume-parsing/page": "app/resume-parsing/page.js"
+  "/homepage/page": "app/homepage/page.js"
 }
